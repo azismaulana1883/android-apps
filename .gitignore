@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+*.apk
+database.db
